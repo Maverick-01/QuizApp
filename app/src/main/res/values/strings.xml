@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question">Which one of the following river flows between Vindhyan and Satpura ranges?</string>
+    <string name="narmada">Narmada</string>
+    <string name="mahanadi">Mahanadi</string>
+    <string name="son">Son</string>
+    <string name="netravati">Netravati</string>
+    <string name="next">Next</string>
+    <string name="quiz_completed">Quiz Completed</string>
+    <string name="result">Result :</string>
+    <string name="try_again">Try Again</string>
+</resources>
